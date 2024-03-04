@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 5 - Polymorphism, Third Pillar of OOP\\Exercise2\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228EB95D-23CE-4179-BC7A-A91C4452A7B3}|Exercise2\\Exercise2.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 5 - polymorphism, third pillar of oop\\exercise2\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228EB95D-23CE-4179-BC7A-A91C4452A7B3}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 5 - Polymorphism, Third Pillar of OOP\\Exercise2\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 5 - Polymorphism, Third Pillar of OOP\\Exercise2\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeToolTip": "Exercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:38:38.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
