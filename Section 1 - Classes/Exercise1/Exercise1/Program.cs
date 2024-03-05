@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Exercise1
 
@@ -11,8 +12,9 @@ namespace Exercise1
             try
             {
                 var stopWatch = new StopWatch();
-                stopWatch.Start(new DateTime(2022, 02, 24, 7, 30, 0));
-                stopWatch.Stop(new DateTime(2022, 02, 24, 7, 45, 0));
+                stopWatch.Start();
+                Thread.Sleep(1000);
+                stopWatch.Stop();
                 Console.WriteLine("Timer stopped at: "+ stopWatch._duration);
             } 
             catch(Exception) {

@@ -7,20 +7,18 @@
         private DateTime _startTime;
 
 
-        public void Start(DateTime time)
+        public void Start()
         {
             if (_startTime != default(DateTime))
                 throw new ArgumentException("_startTime");
-            _startTime = time;
+            _startTime = DateTime.Now;
         }
 
-        public void Stop(DateTime time) 
+        public void Stop() 
         {
             if(_startTime == default(DateTime))
                 throw new ArgumentNullException("_startTime");
-            else if(time < _startTime)
-                throw new ArgumentOutOfRangeException("time");
-            _duration = time - _startTime;
+            _duration = DateTime.Now - _startTime;
             _startTime = default(DateTime);
         }
     }

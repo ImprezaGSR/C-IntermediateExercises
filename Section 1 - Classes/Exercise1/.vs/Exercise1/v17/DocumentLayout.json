@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\Section 1\\Exercise1\\",
+  "WorkspaceRootPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 1 - Classes\\Exercise1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6575BAD5-2DBF-40B5-AA96-E2A99ABC5ABC}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\section 1\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6575BAD5-2DBF-40B5-AA96-E2A99ABC5ABC}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 1 - classes\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6575BAD5-2DBF-40B5-AA96-E2A99ABC5ABC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6575BAD5-2DBF-40B5-AA96-E2A99ABC5ABC}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 1 - classes\\exercise1\\exercise1\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575BAD5-2DBF-40B5-AA96-E2A99ABC5ABC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopWatch.cs",
+              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 1 - Classes\\Exercise1\\Exercise1\\StopWatch.cs",
+              "RelativeDocumentMoniker": "Exercise1\\StopWatch.cs",
+              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 1 - Classes\\Exercise1\\Exercise1\\StopWatch.cs",
+              "RelativeToolTip": "Exercise1\\StopWatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:41:27.826Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\Section 1\\Exercise1\\Exercise1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 1 - Classes\\Exercise1\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
-              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\Section 1\\Exercise1\\Exercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 1 - Classes\\Exercise1\\Exercise1\\Program.cs",
               "RelativeToolTip": "Exercise1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T08:35:54.95Z",
               "EditorCaption": ""
