@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\",
+  "WorkspaceRootPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EBFC7B6-8FEA-4115-BFCB-9E6DB437D42F}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 3\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EBFC7B6-8FEA-4115-BFCB-9E6DB437D42F}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 3 - inheritance, second pillar of oop\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBFC7B6-8FEA-4115-BFCB-9E6DB437D42F}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBFC7B6-8FEA-4115-BFCB-9E6DB437D42F}|Exercise1\\Exercise1.csproj|c:\\users\\yunyo\\downloads\\csharpintermediate\\exercises\\c-intermediateexercises\\section 3 - inheritance, second pillar of oop\\exercise1\\exercise1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBFC7B6-8FEA-4115-BFCB-9E6DB437D42F}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Stack.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Stack.cs",
+              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Stack.cs",
+              "RelativeToolTip": "Exercise1\\Stack.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:58:13.07Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\Exercise1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
-              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\Exercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Program.cs",
               "RelativeToolTip": "Exercise1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T02:50:22.057Z",
               "EditorCaption": ""

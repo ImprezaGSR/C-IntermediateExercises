@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\Exercise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Exercise1.csproj",
       "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\Exercise1\\Exercise1.csproj",
+      "projectPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\Exercise1.csproj",
       "packagesPath": "C:\\Users\\yunyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3\\Exercise1\\Exercise1\\obj\\",
+      "outputPath": "C:\\Users\\yunyo\\Downloads\\CSharpIntermediate\\Exercises\\C-IntermediateExercises\\Section 3 - Inheritance, Second Pillar of OOP\\Exercise1\\Exercise1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
